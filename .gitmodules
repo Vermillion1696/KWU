@@ -1,0 +1,6 @@
+[submodule "Data_Structures"]
+	path = Data_Structures
+	url = https://github.com/Vermillion1696/Data_Structures.git
+[submodule "Object_Oriented_Programming"]
+	path = Object_Oriented_Programming
+	url = https://github.com/Vermillion1696/Object_Oriented_Programming.git
